@@ -7,7 +7,7 @@ QSN members and subcommittees use it to request event promotion and project supp
 
 ## How it works
 - Single static page (`index.html`), hosted on GitHub Pages.
-- Submissions are emailed to the Communications lead via [FormSubmit](https://formsubmit.co).
+- Submissions are emailed to Admin QSN (admin.qsn@umich.edu) via [FormSubmit](https://formsubmit.co).
 
 ## Editing
 Open `index.html` and edit the `CONFIG` block near the bottom:
@@ -18,4 +18,4 @@ Open `index.html` and edit the `CONFIG` block near the bottom:
 Changes go live 1–2 minutes after committing.
 
 ## Contact
-Communications Subcommittee lead: Snow (xueyu@stanford.edu)
+Questions: Admin QSN (admin.qsn@umich.edu)
